@@ -1,0 +1,11 @@
+Login Issues Guide
+
+Users unable to login should:
+
+1. Verify username and password.
+2. Clear browser cache.
+3. Disable browser extensions.
+4. Reset password if needed.
+5. Contact support if account remains inaccessible.
+
+Repeated login failures may indicate account lock.

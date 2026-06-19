@@ -1,0 +1,12 @@
+Performance Troubleshooting
+
+Slow application performance may occur due to:
+
+- High server load
+- Poor network connection
+- Browser cache issues
+
+Recommended actions:
+1. Refresh application.
+2. Clear cache.
+3. Check network stability.

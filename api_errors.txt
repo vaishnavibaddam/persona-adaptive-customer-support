@@ -1,0 +1,13 @@
+API Authentication Errors
+
+Error 401:
+Invalid API key.
+
+Error 403:
+Access denied.
+
+Troubleshooting:
+1. Verify API key.
+2. Check permissions.
+3. Review request headers.
+4. Examine server logs.

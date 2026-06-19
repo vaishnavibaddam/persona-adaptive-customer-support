@@ -1,0 +1,10 @@
+Billing Support
+
+Billing concerns include:
+
+- Incorrect charges
+- Subscription renewals
+- Failed payments
+- Invoice requests
+
+Billing issues require support team verification.
