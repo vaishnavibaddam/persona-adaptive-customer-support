@@ -1,0 +1,11 @@
+General Troubleshooting
+
+Basic troubleshooting steps:
+
+1. Restart application.
+2. Clear cache.
+3. Check internet connection.
+4. Update browser.
+5. Retry operation.
+
+If issue continues, contact support.

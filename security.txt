@@ -1,0 +1,10 @@
+Security Guidelines
+
+Users should:
+
+- Enable two-factor authentication
+- Use strong passwords
+- Avoid password sharing
+- Report suspicious activity immediately
+
+Security incidents are reviewed by administrators.
